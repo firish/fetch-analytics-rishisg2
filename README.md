@@ -12,4 +12,4 @@ Task 3, Choose something noteworthy about the data and share with a non-technica
 Please look at image 1 (revenue_barplot) and image 2 (transaction_treemap)
 Explanation for the two files are written in the explanation.txt file
 
-# Thank you for reading me!
+## Thank you for reading me!
